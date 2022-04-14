@@ -1,4 +1,4 @@
-# The Bus App
+# The Taxi App
 
 ## About
 
