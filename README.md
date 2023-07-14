@@ -12,7 +12,6 @@ The application source code resides in the `src` directory.
 
 The [pipelines](../pipelines) that power the CI and CD jobs for this repository have been defined as Tekton Tasks & Tekton Pipeline definitions.
 
-
 ### CI
 
 The CI pipeline does the following:
