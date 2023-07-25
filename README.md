@@ -14,6 +14,7 @@ The [pipelines](../pipelines) that power the CI and CD jobs for this repository 
 
 ### CI
 
+
 The CI pipeline does the following:
 
 - Validates any changes made to [deployment manifests](../deploy).
